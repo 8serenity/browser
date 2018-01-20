@@ -1,0 +1,14 @@
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\bin\Debug\Navigation.exe.config
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\bin\Debug\Navigation.exe
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\bin\Debug\Navigation.pdb
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\MainWindow.g.cs
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\App.g.cs
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation_MarkupCompile.cache
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation_MarkupCompile.lref
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\MainWindow.baml
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.g.resources
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.Cache
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.exe
+c:\users\serenity\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.pdb
